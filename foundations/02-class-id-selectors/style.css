@@ -1,0 +1,19 @@
+.all-odd{
+    background-color: #ffc0cb;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#two{
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+.three{
+    font-size: 24px;
+}
+
+#four{
+    background-color: rgb(144, 238, 144);
+    font-size: 24px; /*to reduce the code you can give the same class of third p and do need to have the same line code again*/
+    font-weight: bold;
+}
