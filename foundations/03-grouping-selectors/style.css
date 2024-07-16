@@ -1,0 +1,26 @@
+button.one{
+    background-color: black;
+    color: white;
+}
+
+button.two{
+    background-color: yellow;
+}
+
+/*
+how i make the exercise.
+button{
+    font-size: 28px;
+    font-family: Helvetica, sans-serif, 'Times New Roman';
+}
+
+
+instead below
+*/
+
+.one,
+.two{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
